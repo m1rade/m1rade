@@ -1,5 +1,9 @@
-### Hi, 👋 I'm Frontend developer.
+<iframe aligh="left" src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+### Hi there.
+I'm Frontend developer
+Passionate about Web development
+Learning technologies that I found interesting
 <!--
 **m1rade/m1rade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
