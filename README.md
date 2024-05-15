@@ -1,4 +1,4 @@
-<iframe aligh="left" src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="left" src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" />
 
 ### Hi there.
 I'm Frontend developer
