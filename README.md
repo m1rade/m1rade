@@ -1,8 +1,9 @@
-<img align="left" src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="480" height="480" />
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW95MndlMmcxN2diMnRsc21kbXYzbzRsbXBmdm9iZXd3YTRkNG1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="480" height="480" />
 
-### Hi there.
-I'm Frontend developer
-Passionate about Web development
+### Hi there
+
+I'm **Frontend** developer. Passionate about Web development
+
 Learning technologies that I found interesting
 <!--
 **m1rade/m1rade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
